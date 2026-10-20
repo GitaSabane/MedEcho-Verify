@@ -175,19 +175,11 @@ Some features that can be added in the future are:
 ---
 
 ## Screenshots
+![alt text](<Screenshot (446).png>)
 
-You can add screenshots of the application here.
+![alt text](<Screenshot (447).png>)
 
-```
-screenshots/
-    <img width="1366" height="768" alt="Screenshot (400)" src="https://github.com/user-attachments/assets/39ba37d3-0f54-43bb-8ac2-41e6d28375ed" />
-
-    <img width="1366" height="768" alt="Screenshot (401)" src="https://github.com/user-attachments/assets/bd8e8368-10c2-40da-ad7c-40dab52f90dd" />
-
-    <img width="1366" height="768" alt="Screenshot (402)" src="https://github.com/user-attachments/assets/b53a35e6-b1e4-41f0-b5e7-d532ed0df2c5" />
-
-```
-
+![alt text](<Screenshot (448).png>)
 ---
 
 ## About This Project
