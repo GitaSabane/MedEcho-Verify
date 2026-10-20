@@ -174,12 +174,16 @@ Some features that can be added in the future are:
 
 ---
 
-## Screenshots
 
 ## Screenshots
 
-![alt text](image.png)
-![alt text](image-1.png)
+### Homepage
+
+<img src="https://github.com/user-attachments/assets/fa4f6dc3-9dab-42d9-b869-3ea85c6ed435" alt="MedEcho-Verify Homepage" width="100%" />
+
+### Analysis Dashboard
+
+<img src="https://github.com/user-attachments/assets/50c1593e-5543-46bd-ade6-ade035cb03bd" alt="MedEcho-Verify Analysis Dashboard" width="100%" />
 
 
 ## About This Project
